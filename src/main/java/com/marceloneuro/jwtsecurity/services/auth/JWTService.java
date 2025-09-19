@@ -1,7 +1,6 @@
-package com.marceloneuro.jwtsecurity.services;
+package com.marceloneuro.jwtsecurity.services.auth;
 
 import io.jsonwebtoken.Claims;
-import io.jsonwebtoken.Jwt;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import io.jsonwebtoken.io.Decoders;
